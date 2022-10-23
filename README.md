@@ -103,3 +103,31 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+#
+
+#
+
+# Blog App (GatsbyJS)
+
+This is the project from the [YouTube Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc). It includes Gatsby JS which is a static site generator that runs on React and GraphQL. Creating a static site along with a Markdown based blog using a few plugins.
+
+## Usage
+
+## Install
+
+Make sure that you have the Gatsby CLI program installed:
+
+```
+npm install -g gatsby-cli
+```
+
+Install the dependencies:
+
+```
+npm install
+```
+
+## Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
