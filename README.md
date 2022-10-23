@@ -131,3 +131,11 @@ npm install
 ## Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+
+## View Site
+
+[View Sample Blog App](https://blog-app-gatsby.netlify.app/)
+
+```
+https://blog-app-gatsby.netlify.app/
+```
